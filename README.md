@@ -1,5 +1,5 @@
 # Random Dog
-This simple project fetches and renders an image from Dog CEO’s API. (No authentication required)
+This simple project fetches and renders an image from [Dog CEO’s API](https://dog.ceo/dog-api/). (No authentication required)
 
 ## Requirements
 ```
