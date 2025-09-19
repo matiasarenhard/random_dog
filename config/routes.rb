@@ -13,4 +13,6 @@ Rails.application.routes.draw do
   # root "posts#index"
 
   get "random_dog", to: "random_dog#index"
+  
+  root "random_dog#index"
 end
